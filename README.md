@@ -1,14 +1,15 @@
 Really simple bullet hell game using Swing (Java)
 
-#Controls
-
+-Controls
+-
 Arrows keys to move
 Shooting is automatic, 
 X to clear bombs
 R to restart if you die
 
 
-#Info
+-Info
 ~Score goes up the longer you survive
--Pink is regular enemy
+-Pink is a regular enemy
 -Orange is Boss
+-
