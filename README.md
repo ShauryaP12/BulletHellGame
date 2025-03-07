@@ -34,4 +34,4 @@ A simple bullet hell game implemented in Java using Swing. In this game, you con
 
 
 
-By Shaurya, Porject is Open source
+By Shaurya, Project is Open source
