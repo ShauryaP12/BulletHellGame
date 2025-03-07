@@ -31,3 +31,7 @@ A simple bullet hell game implemented in Java using Swing. In this game, you con
    Open a terminal/command prompt in the project directory and run:
    ```bash
    javac BulletHellGame.java
+
+
+
+By Shaurya, Porject is Open source
